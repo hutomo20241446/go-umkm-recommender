@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 2. Setup Environment Variables untuk Akses Database
 Isi `.env` di root folder dengan ini:
 ```
-DB_HOST=0.tcp.ap.ngrok.io
+DB_HOST=go-umkm.c9e8y4qwgzqq.ap-southeast-1.rds.amazonaws.com
 DB_PORT=*****
 DB_USER=remote_user_go_umkm
 DB_PASSWORD=capstone_project
